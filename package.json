@@ -10,5 +10,8 @@
     "tailwind"
   ],
   "author": "Jordan Carvalho",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
 }
